@@ -1,0 +1,4 @@
+app="user"
+port=9090
+[mysql]
+uid="root"
